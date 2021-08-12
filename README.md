@@ -1,0 +1,1 @@
+Aplicativo de notas construído em React Native como parte do curso da B7Web.
